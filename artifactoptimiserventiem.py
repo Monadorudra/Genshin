@@ -53,7 +53,7 @@ ERbase=1
 atkbase=m.Const(value=atkbasechar+atkbaseweapon)
 atkpercentother=m.Const(value=atkpercentother)
 atkflatother=m.Const(value=atkflatother)
-dmgbonusother=m.Const(value=dmgbonusother) #diluc a4, 2 piece witches, 4 piece witches, the vape bonus stacks additively with EM
+dmgbonusother=m.Const(value=dmgbonusother) 
 critdmgother=m.Const(value=critdmgother)
 critrateother=m.Const(value=critrateother)
 EMother=m.Const(value=EMother)
